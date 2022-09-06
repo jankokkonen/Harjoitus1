@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 10px;
+}
+p {
+    font-size: .7em;
+}
+
+#punch {
+    width: 100%;
+    padding: 0.1em 0.1em 0;
+    background: lightblue; 
+    color: black; 
+    border: solid white 1px; 
+    border-width: 0 0.2em 0.2em 0; 
+} 
+#Q-char {
+    float: left; font-size: 500%; width: 1.2em;
+    text-align: center; padding: 0.1em 0.1em 0;
+    background: #568; color: white; border: solid white 1px;
+    border-width: 0 0.2em 0.2em 0; margin: 0 0.5em 0.2em 0;
+}
+
+#main2 {
+    border: 1px solid black;}
+
+#punch2 {
+    float: left; 
+    width: 100%;  
+    background: lightblue; 
+    color: black; 
+    border: solid black 1px; 
+    border-width: 0 1px 1px 0; 
+    margin: .5em;
+    padding: 1em ;
+}
+
+#punch2 img {
+    height: 70px; 
+    width: 100px;
+}
+
+#punch3b {
+    float: left; 
+    width: 100%; 
+    text-align: left;
+    background: lightblue; 
+    color: black; 
+    border: solid black 1px;
+    margin: 0.2em -1px 0.2em 0.5em;
+}
